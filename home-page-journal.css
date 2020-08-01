@@ -1,0 +1,47 @@
+body{
+	background-color: #CACFD2;
+}
+header{
+	text-align: center;
+	height: 100px;
+}
+main{
+	padding-bottom: 50px;
+	background-color: #AAB7B8;
+	padding-top: 20px;
+}
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 40px;
+	text-align: center;
+	background-color: #CACFD2;
+
+}
+p{
+	font-size: 25px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	text-align: center;
+}
+
+h1 h2{
+	font-family: 'Oranienbaum', serif;
+	text-align: center;
+}
+.images{
+	width: 50px;
+	height: 50px;
+}
+a{
+	color: blue;
+}
+a:hover{
+	color: purple;
+}
+.images2{
+	width: 35px;
+	height: 55px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
