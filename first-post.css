@@ -68,6 +68,7 @@ a:hover{
 	width: 445px;
 	height: auto;
 	margin-top: 25px;
+	border: 10px solid black;
 }
 a.link{
 	color:blue;
