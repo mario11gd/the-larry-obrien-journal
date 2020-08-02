@@ -67,4 +67,15 @@ a:hover{
 .images3{
 	width: 445px;
 	height: auto;
+	margin-top: 25px;
+}
+a.link{
+	color:blue;
+	text-decoration: none;
+}
+a.link:hover{
+	opacity: 75%:;
+}
+a.link:visited{
+	color: purple;
 }
