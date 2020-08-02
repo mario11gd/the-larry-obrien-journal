@@ -8,13 +8,15 @@ header{
 	text-align: center;
 	background-color: black;
 	height: 75px;
+	width: auto;
 
 }
 main{
 	padding-bottom: 50px;
 	background-color: white;
 	width: 1000px;
-	margin-left: 250px;
+	margin-left: auto;
+	margin-right: auto;
 }
 h1{
 	font-size: 50px;
